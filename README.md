@@ -2,13 +2,13 @@
 <h1 align="center">
   👋 Hi, I’m <b>MD Raihan Alam</b>
   <br>
-  <b><a href="https://github.com/YOUR_GITHUB_USERNAME">Full-Stack Web & Mobile Developer</a></b>
+  <b><a href="https://github.com/Md-Raihan-Alam">Full-Stack Web & Mobile Developer</a></b>
   <br>
   <em><span>Building awesome apps • Exploring AI & Game Development</span></em>
 </h1>
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Md-Raihan-Alam/Md-Raihan-Alam/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
